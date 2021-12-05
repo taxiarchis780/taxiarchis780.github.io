@@ -1,0 +1,17 @@
+.bg-primary {
+  background-color: #2e4b5b !important;
+}
+
+.btn-primary {
+  background-color: #345d73;
+  border-color: #345d73;
+  /*color: #f05f40;*/
+}
+
+hr {
+  max-width: 50px;
+  border-width: 3px;
+  border-color: #345d73;
+  border-top: 0;
+}
+
